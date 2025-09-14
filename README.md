@@ -9,12 +9,7 @@ This project is a **web-based Crop Recommendation System** that helps farmers an
 - ⚡ **Fast & Lightweight** – Built with simple HTML, CSS, and JS.
 
 ## 📷 Preview
-![Screenshot 1](./screenshots/screenshot1.png)
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot3.png)
-"C:\Users\Supriya Mansha\Pictures\Screenshots\Screenshot 2025-09-13 220446.png"
-"C:\Users\Supriya Mansha\Pictures\Screenshots\Screenshot 2025-09-13 220500.png"
-"C:\Users\Supriya Mansha\Pictures\Screenshots\Screenshot 2025-09-13 220517.png"
+
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend (Optional):** Flask / FastAPI (if you have ML model integration)  
